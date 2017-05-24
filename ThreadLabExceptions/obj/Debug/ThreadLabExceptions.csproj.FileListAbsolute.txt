@@ -1,0 +1,6 @@
+D:\Programowanie\VisualProjects\ThreadLabExceptions\ThreadLabExceptions\bin\Debug\ThreadLabExceptions.exe.config
+D:\Programowanie\VisualProjects\ThreadLabExceptions\ThreadLabExceptions\bin\Debug\ThreadLabExceptions.exe
+D:\Programowanie\VisualProjects\ThreadLabExceptions\ThreadLabExceptions\bin\Debug\ThreadLabExceptions.pdb
+D:\Programowanie\VisualProjects\ThreadLabExceptions\ThreadLabExceptions\obj\Debug\ThreadLabExceptions.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\ThreadLabExceptions\ThreadLabExceptions\obj\Debug\ThreadLabExceptions.exe
+D:\Programowanie\VisualProjects\ThreadLabExceptions\ThreadLabExceptions\obj\Debug\ThreadLabExceptions.pdb
